@@ -1,0 +1,30 @@
+
+img {                                              /*$$$bütün resimler aynı boyut*/
+    height: 200px;
+    width: 200px;
+ }
+ 
+ .Color-title{                                     /*Bütün classı ayarlar. */
+    font-weight: normal;
+ }
+ 
+ #red{                                            /*Yazinin rengi*/
+    color: red;
+ }
+ 
+ #blue{
+    color: blue;
+ }
+ 
+ #orange{
+    color: orange;
+ }
+ 
+ #green{
+    color: green;
+ }
+ 
+ #yellow{
+    color: yellow;
+ }
+ 
